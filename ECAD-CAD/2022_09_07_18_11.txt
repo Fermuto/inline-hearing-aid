@@ -1,0 +1,11 @@
+Visiting folder In-Line Hearing Aid
+Visiting file Complete Config v10 . f3d
+Opening `Complete Config`
+Saved C:\Users\zdrag\Documents\GitHub\inline-hearing-aid\ECAD-CAD\In-Line Hearing Aid\Complete Config_v10.f3d
+Saved C:\Users\zdrag\Documents\GitHub\inline-hearing-aid\ECAD-CAD\In-Line Hearing Aid\Complete Config_v10.step
+Closing Complete Config
+Visiting file CUI_DEVICES_SJ1-3553NG v1 . f3d
+Opening `CUI_DEVICES_SJ1-3553NG`
+Saved C:\Users\zdrag\Documents\GitHub\inline-hearing-aid\ECAD-CAD\In-Line Hearing Aid\CUI_DEVICES_SJ1-3553NG_v1.f3d
+Saved C:\Users\zdrag\Documents\GitHub\inline-hearing-aid\ECAD-CAD\In-Line Hearing Aid\CUI_DEVICES_SJ1-3553NG_v1.step
+Closing CUI_DEVICES_SJ1-3553NG
